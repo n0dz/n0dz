@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0dz&label=Profile%20views&color=0e75b6&style=flat" alt="n0dz" /> </p>
 
-- 🌱 I’m currently learning **Android and Flutter**
+- 🌱 I’m currently exploring **Mobile app development (Android)**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
