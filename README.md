@@ -35,4 +35,4 @@ JavaScript · React · Node.js · Python · SQL · SQLite · Git · Docker
 
 I enjoy turning ideas into working software and documenting what I learn along the way.
 
-I'm preparing for future academic and professional opportunities in Spain.
+I'm preparing for future academic and professional opportunities.
