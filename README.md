@@ -20,7 +20,7 @@ Uptime monitoring dashboard built with Node.js, Express, and SQLite.
 
 ## Technologies
 
-JavaScript · React · Node.js · Python · SQL · SQLite · Git · Docker
+JavaScript · React · Node.js · Python · SQL · SQLite · Git
 
 ## Currently learning
 
